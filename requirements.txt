@@ -7,9 +7,13 @@ jupyter
 
 # NLP and Text Analysis
 scikit-learn
+nltk
+textblob
 
 # Financial Analysis
 yfinance
+pynance
+ta-lib
 # Utilities
 python-dotenv
 tqdm
