@@ -7,6 +7,7 @@ the tone and sentiment expressed in financial news. This will involve using natu
 language processing (NLP) techniques to derive sentiment scores and Correlations
 ## Project Structure
 
+```
 10academy-week1-stockAnalysis/
 ├── .vscode/ # VS Code settings
 ├── .github/ # GitHub Actions workflows
@@ -16,7 +17,7 @@ language processing (NLP) techniques to derive sentiment scores and Correlations
 ├── scripts/ # Utility scripts
 ├── requirements.txt # Python dependencies
 └── README.md # Project documentation
-
+```
 
 ## Main sections
 - **Task 1**: Git setup and EDA
